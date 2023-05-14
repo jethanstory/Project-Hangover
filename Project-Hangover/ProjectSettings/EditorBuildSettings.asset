@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/ApartmentTest.unity
-    guid: fc7b173fc134055459038b5e907aea88
+    path: Assets/Scenes/ManorLevel.unity
+    guid: b8d50372e7862f04abb0d0ea1c8cbd83
   m_configObjects: {}
